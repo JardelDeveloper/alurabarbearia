@@ -34,19 +34,19 @@ Tools & Utilities included:
 # :construction_worker: How to run?
 
 ```bash
-git clone https://github.com/JardelDeveloper/barbearia-alura.git
+git clone https://github.com/JardelDeveloper/alurabarber.git
 ```
 
 # :computer: Run website (Frontend)
 
 ```bash
 # Access the directory
-$ cd barbearia-alura
+$ cd alurabarber
 # Run aplication
 right click on file.html and select the option "Open with Live Server"
 ```
 
-Go to http://127.0.0.1:5500/barbearia-alura/file.html to see the web application's response.
+Go to http://127.0.0.1:5500/alurabarber/file.html to see the web application's response.
 
 # 🤔 How to contribute?
 
@@ -64,13 +64,13 @@ After the merge of your pull request is done, you can delete a branch of yours.
 
 # :wrench: Issues
 
-Feel free to **file a new issue** with a respective title and description on the [Barbearia Alura](https://github.com/JardelDeveloper/barbearia-alura/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**.
+Feel free to **file a new issue** with a respective title and description on the [Barbearia Alura](https://github.com/JardelDeveloper/alurabarber/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**.
 
 # :memo: License
 
 Released in 2020 :closed_book:
 
-This project is under the MIT license. See the [LICENSE](https://github.com/JardelDeveloper/barbearia-alura/blob/master/LICENSE) for more details.
+This project is under the MIT license. See the [LICENSE](https://github.com/JardelDeveloper/alurabarber/blob/master/LICENSE) for more details.
 
 Made with :green_heart: by Jardel Cunha.
 
